@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.0.3.25099/Void-linux-loong64-1.0.3.25099.tar.gz",
-  "name": "1.0.3.25099",
-  "version": "908de32b8f9f1c22dfd4528a514b438524fd7f28",
-  "productVersion": "1.0.3.25099",
-  "hash": "c8ec47e6f64b0484397ea24f1d9f05b6a71fd950",
-  "timestamp": "1744209195999",
-  "sha256hash": "a6dd4ff4e5174775ee06d3cb2b0fc1305a185458b2d7045ee2236ae6bc978f9f"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.0.3.25101/Void-linux-loong64-1.0.3.25101.tar.gz",
+  "name": "1.0.3.25101",
+  "version": "1081b8879f4fcc7ae37b47a7dc37d15eeea16238",
+  "productVersion": "1.0.3.25101",
+  "hash": "9047e7884f551d6ef0f588871928d9f3c9b247be",
+  "timestamp": "1744368794274",
+  "sha256hash": "6cecfca5d4f7500b393182e292d7964f5b445e43aaf40241e20773f0441f8dd7"
 }
