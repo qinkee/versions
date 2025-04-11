@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.0.3.25099/VoidUserSetup-x64-1.0.3.25099.exe",
-  "name": "1.0.3.25099",
-  "version": "5fde9194af08d97102bba5f0585551b59cc1eead",
-  "productVersion": "1.0.3.25099",
-  "hash": "f8daa26c0e029c9fc1211f22df586a0a46534dd3",
-  "timestamp": "1744216839626",
-  "sha256hash": "b9b37bb09d0fb16ff1a8694e22f4474e1d9b31126e55f632dc1af5fb9f35af69"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.0.3.25101/VoidUserSetup-x64-1.0.3.25101.exe",
+  "name": "1.0.3.25101",
+  "version": "1081b8879f4fcc7ae37b47a7dc37d15eeea16238",
+  "productVersion": "1.0.3.25101",
+  "hash": "06aa7677dfefd31575f116bbd5e17c494c3d5960",
+  "timestamp": "1744370841398",
+  "sha256hash": "ec1cc58f9ea6670503e1d557183d1aaf0903963c82c7141aa4d15639d580d219"
 }
