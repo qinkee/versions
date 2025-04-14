@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.1.0.25104/Void-win32-arm64-1.1.0.25104.zip",
-  "name": "1.1.0.25104",
-  "version": "5171f7244f5583f4e7bd37d3b22d7227d40d6e4f",
-  "productVersion": "1.1.0.25104",
-  "hash": "9a671a5ccc8d9a0ac2cbee904bbd9599b2b120b6",
-  "timestamp": "1744621189420",
-  "sha256hash": "264438bdf5ca9ff8f4129b2c04fe5f6d3a27154ffbafb06e58d940657dc017e7"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.2.0.25104/Void-win32-arm64-1.2.0.25104.zip",
+  "name": "1.2.0.25104",
+  "version": "e77039e9ad0c2c21ee1f1284f514aaa7d2ca8bb1",
+  "productVersion": "1.2.0.25104",
+  "hash": "18f456537baf3018dc993a60fe7e931636ad3417",
+  "timestamp": "1744665106057",
+  "sha256hash": "e66a1c88c95f418ff437b4c2e5e26b4015721a9ea4f71105b2bfbf6bc98e4398"
 }
