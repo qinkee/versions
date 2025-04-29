@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.2.6.25111/Void-darwin-x64-1.2.6.25111.zip",
-  "name": "1.2.6.25111",
-  "version": "8f09a94c78e730f0f8136a7f8643e1ed15b54e03",
-  "productVersion": "1.2.6.25111",
-  "hash": "b6b453e004d8ad3222e8c3f126d467e730c38ccc",
-  "timestamp": "1745280410464",
-  "sha256hash": "fe21090b55c6a4344dbb15acdb7324a597eb31bb23052d7f48c627e528dfffb2"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30001/Void-darwin-x64-1.99.30001.zip",
+  "name": "1.99.30001",
+  "version": "df721c5370330e8595904681fccac163f11e4cef",
+  "productVersion": "1.99.30001.0",
+  "hash": "df84a0f33409ab873e41da29fb5e701af6da47d2",
+  "timestamp": "1745920590246",
+  "sha256hash": "81fba3511d8d621c328f9144f80b2b3153ea5b9804e4ff39baf751ebbaf83fc1"
 }
