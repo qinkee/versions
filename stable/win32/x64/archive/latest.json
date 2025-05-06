@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30003/Void-win32-x64-1.99.30003.zip",
-  "name": "1.99.30003",
-  "version": "cf0728f4c605bff49c34c923e15ae649f053d3e7",
-  "productVersion": "1.99.30003.0",
-  "hash": "72f0de9f941a758a3549c6ca35df4c9abbb0b8a1",
-  "timestamp": "1746089269934",
-  "sha256hash": "4f569e0f10406be9b002fc95278127e774ddaa17a10669c7b9bac7b5871fa5cf"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30004/Void-win32-x64-1.99.30004.zip",
+  "name": "1.99.30004",
+  "version": "f97cdd82d881df7d61023339ad4ee8b09c42bb20",
+  "productVersion": "1.99.30004.0",
+  "hash": "59975fe6f6741b88af67b9fdbfc32bbef52bd28c",
+  "timestamp": "1746493114054",
+  "sha256hash": "81d054b5a3dc0e847f3c18eb9be226c6c95efdf7eac84083b4a70a377d53f1b5"
 }
