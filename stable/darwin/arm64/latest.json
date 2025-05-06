@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30005/Void-darwin-arm64-1.99.30005.zip",
-  "name": "1.99.30005",
-  "version": "fcd445d875fa8fc543c201158990832b4d7f2647",
-  "productVersion": "1.99.30005.0",
-  "hash": "83167dccea670b92cee8833c80101affcf82acea",
-  "timestamp": "1746492096539",
-  "sha256hash": "1c907baf17b4574b21911d190c3a66f6d7210ecba69b87c8445379e74326a45a"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30006/Void-darwin-arm64-1.99.30006.zip",
+  "name": "1.99.30006",
+  "version": "38eeee8e30fb346ebd835930d3ebe41dd3ed67dd",
+  "productVersion": "1.99.30006.0",
+  "hash": "d2186777267dfb07797df8481a9c4f8c2aaf5a4e",
+  "timestamp": "1746537874365",
+  "sha256hash": "ddd351ebf725f4ecb2722c1b71ee8ba292b949747902fafc05e4288649dd08f8"
 }
