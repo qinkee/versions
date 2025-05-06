@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30008/Void-x64-1.99.30008.msi",
-  "name": "1.99.30008",
-  "version": "bd62b68dfb9e9009fca579b0057b5dbc66ecaf94",
-  "productVersion": "1.99.30008.0",
-  "hash": "4cd5c16442ec515350413bed64cbf80215c7666d",
-  "timestamp": "1746567430448",
-  "sha256hash": "9875f3ad9b86b16bc0e1e97d053ca0060ae3347c20e821d46a479f66042c0242"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30009/Void-x64-1.99.30009.msi",
+  "name": "1.99.30009",
+  "version": "d33b5ff9a32a748a22ac99e543a9eedd2e600062",
+  "productVersion": "1.99.30009.0",
+  "hash": "14069dfe0b3e7719d87a157af864c6efd501a9eb",
+  "timestamp": "1746568025042",
+  "sha256hash": "6478822687879ae3099000634cb33ec3ffcf510cf9225cfeda74c24c773acb9f"
 }
