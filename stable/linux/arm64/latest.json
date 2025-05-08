@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30011/Void-linux-arm64-1.99.30011.tar.gz",
-  "name": "1.99.30011",
-  "version": "77d174edcffc8e968197fcaa1e1da814a4d6f251",
-  "productVersion": "1.99.30011.0",
-  "hash": "a0cec954373112ac40ddd6d908bf79509218be67",
-  "timestamp": "1746674615686",
-  "sha256hash": "da87d3208739099188ed9522481e49ac13b003fb8b2c492d7d80595ce9b9693a"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30021/Void-linux-arm64-1.99.30021.tar.gz",
+  "name": "1.99.30021",
+  "version": "3b518e6f966083c94e9189603b56f1a9e79d2326",
+  "productVersion": "1.99.30021.0",
+  "hash": "2b1175613d9bcf6133d902455b61205afff06dcd",
+  "timestamp": "1746733239289",
+  "sha256hash": "1705ac7025d0ca9e47732ca506d7769135787ce0c3c70408435140db05cdd6bf"
 }
