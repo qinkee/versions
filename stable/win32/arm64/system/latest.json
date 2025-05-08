@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30011/VoidSetup-arm64-1.99.30011.exe",
-  "name": "1.99.30011",
-  "version": "77d174edcffc8e968197fcaa1e1da814a4d6f251",
-  "productVersion": "1.99.30011.0",
-  "hash": "39f3aac21ed1e96acf5bd1de40ceeb86075c1545",
-  "timestamp": "1746675210712",
-  "sha256hash": "eceea92c3936398472d33dae5bf501fedf35ba72e371193788c4644f71a3db4b"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30021/VoidSetup-arm64-1.99.30021.exe",
+  "name": "1.99.30021",
+  "version": "3b518e6f966083c94e9189603b56f1a9e79d2326",
+  "productVersion": "1.99.30021.0",
+  "hash": "2c8bfc371bbf01f0f3763326b52e0b302749726b",
+  "timestamp": "1746734076062",
+  "sha256hash": "3968f06965704569ca59183b267dbf5524638990fb92108b5b050bb5df64ec34"
 }
