@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30024/Void-linux-armhf-1.99.30024.tar.gz",
-  "name": "1.99.30024",
-  "version": "19dc26d35bacc0f943fc544931d588778108c6ae",
-  "productVersion": "1.99.30024.0",
-  "hash": "4f3cd58344d080a6704bac4b558e59c974914456",
-  "timestamp": "1746792582895",
-  "sha256hash": "9d4d342e3aa558738af46869fa8351a41405b9e1a1db84c40694d83bf795fb1d"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30025/Void-linux-armhf-1.99.30025.tar.gz",
+  "name": "1.99.30025",
+  "version": "eeb6167c12bbc0634be2c3f2b35fcf3b7a815c94",
+  "productVersion": "1.99.30025.0",
+  "hash": "4a31db319eaf580b4b003f117d5d273373de89a3",
+  "timestamp": "1746793815849",
+  "sha256hash": "9f69f091661c9d22c5a1a4d7db4ef56d2272f4c8f09aef4571455d00a8b18f8e"
 }
