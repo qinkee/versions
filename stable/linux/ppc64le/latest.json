@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30031/Void-linux-ppc64le-1.99.30031.tar.gz",
-  "name": "1.99.30031",
-  "version": "4b86bfa184b176c26649d77fbbe30026de0c3e81",
-  "productVersion": "1.99.30031.0",
-  "hash": "42241c46d6e096c68024744b7cfbe15abcb556ee",
-  "timestamp": "1747107314168",
-  "sha256hash": "06a85f7eaad82dc8aaab4e9a9956e1d6743da42445db50aa83ec25edc1c913b7"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30032/Void-linux-ppc64le-1.99.30032.tar.gz",
+  "name": "1.99.30032",
+  "version": "f632327a7efa95d5b8f2b18cc2a633daa6904f8e",
+  "productVersion": "1.99.30032.0",
+  "hash": "e0a47ea7c2d1c1637b9747d1b26a609ca05cb090",
+  "timestamp": "1747198370306",
+  "sha256hash": "7364aa8a1cc3c1c1e0e4ffbe32a6dd73c3ba3cd6f64d782be1f3f4200d56c5eb"
 }
