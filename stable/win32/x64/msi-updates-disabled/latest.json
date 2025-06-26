@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/TIMtechnology/binaries/releases/download/1.99.30039/Void-x64-updates-disabled-1.99.30039.msi",
-  "name": "1.99.30039",
-  "version": "c23301eb76b0c518b04ba71ec5d67f77424e7c39",
-  "productVersion": "1.99.30039.0",
-  "hash": "e669db638905da37021d802965cbfe42babd9ed0",
-  "timestamp": "1749525661500",
-  "sha256hash": "f69ae6f6b351bb8688da9adbe4ed8826fa9627d0d2815a7e364841b50d3db525"
+  "url": "https://github.com/TIMtechnology/binaries/releases/download/1.99.30044/Void-x64-updates-disabled-1.99.30044.msi",
+  "name": "1.99.30044",
+  "version": "c618190e52dde35c3a485dca83758ca23db895d5",
+  "productVersion": "1.99.30044.0",
+  "hash": "a8152b671ffc0fcf8eeda331170abe88d60f43e3",
+  "timestamp": "1750903937238",
+  "sha256hash": "96dce43b962cbed65620c599e1d145787f5c9fd51787ecac17c506b79c48eda1"
 }

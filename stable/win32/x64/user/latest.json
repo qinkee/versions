@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/TIMtechnology/binaries/releases/download/1.99.30039/VoidUserSetup-x64-1.99.30039.exe",
-  "name": "1.99.30039",
-  "version": "c23301eb76b0c518b04ba71ec5d67f77424e7c39",
-  "productVersion": "1.99.30039.0",
-  "hash": "52bddd544961da7f9933082bb938bcc1b9ec093f",
-  "timestamp": "1749525660800",
-  "sha256hash": "585cda514342cc65f47607c064d434b43cdeedcec81d967a8574537703c85238"
+  "url": "https://github.com/TIMtechnology/binaries/releases/download/1.99.30044/VoidUserSetup-x64-1.99.30044.exe",
+  "name": "1.99.30044",
+  "version": "c618190e52dde35c3a485dca83758ca23db895d5",
+  "productVersion": "1.99.30044.0",
+  "hash": "7d526de762a7d929b80b91185a160619e396efb0",
+  "timestamp": "1750903936596",
+  "sha256hash": "706ac7b8ea9c3e1339e10bc0baabc41de906b48408ec3ed77b09d2511884df77"
 }
