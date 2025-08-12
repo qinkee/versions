@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30038/Void-linux-x64-1.99.30038.tar.gz",
-  "name": "1.99.30038",
-  "version": "bf062146c93fc98f0d19cad53528d012a652ffce",
-  "productVersion": "1.99.30038.0",
-  "hash": "34156abc6c9031d083418c34cd44a23826499e5b",
-  "timestamp": "1749201141305",
-  "sha256hash": "b5097b9741ec825c84a5a5592c2c9b009dfb01edd2ef4376b04a09f7890257c1"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.99.30044/Void-linux-x64-1.99.30044.tar.gz",
+  "name": "1.99.30044",
+  "version": "7e71865d3a35013774f18d11fc3ddc437eac9d1b",
+  "productVersion": "1.99.30044.0",
+  "hash": "cd985d636e1a7ad385a7d5a2ff237887fdf7ef10",
+  "timestamp": "1755007310934",
+  "sha256hash": "05696a33e5e59fb7cbe106802b6ea80a52be75827aa3d9c60ba3eed448a1958f"
 }
