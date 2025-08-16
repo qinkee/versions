@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/TIMtechnology/binaries/releases/download/1.99.30044/Void-win32-arm64-1.99.30044.zip",
-  "name": "1.99.30044",
-  "version": "eeb05c13b02669f6124331ce5f0706f5b270687a",
-  "productVersion": "1.99.30044.0",
-  "hash": "1de37b7fcd411f832cf28712732a20cbc13dfc6a",
-  "timestamp": "1750737606404",
-  "sha256hash": "ca080b6f7a6f5f6602ca59726f1f6d875a93a56975533cf8cde6f5901c0ccded"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.99.30045/Void-win32-arm64-1.99.30045.zip",
+  "name": "1.99.30045",
+  "version": "6445a62e8f8497120ed9133d6746c4ff9398da5a",
+  "productVersion": "1.99.30045.0",
+  "hash": "9c9118f202a224f4b8509ffe6fd042e2fb292143",
+  "timestamp": "1755352179803",
+  "sha256hash": "80bd5dda5e2af2e4435fe20fdc23e11cb0486ea7ecce831fe1b803e57720e954"
 }
