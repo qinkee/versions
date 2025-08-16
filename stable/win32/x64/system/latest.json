@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/TIMtechnology/binaries/releases/download/1.99.30044/VoidSetup-x64-1.99.30044.exe",
-  "name": "1.99.30044",
-  "version": "c618190e52dde35c3a485dca83758ca23db895d5",
-  "productVersion": "1.99.30044.0",
-  "hash": "230524801dbd2e39869def7c44f6ee0ac7c5bd03",
-  "timestamp": "1750903936377",
-  "sha256hash": "4bdcca6d15362cabdd74ef31e194d02dc3956bd750a705809d63d0d97abad190"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.99.30045/VoidSetup-x64-1.99.30045.exe",
+  "name": "1.99.30045",
+  "version": "6445a62e8f8497120ed9133d6746c4ff9398da5a",
+  "productVersion": "1.99.30045.0",
+  "hash": "956ddc92a9c001fa768b2721198e8937af919d51",
+  "timestamp": "1755354022441",
+  "sha256hash": "952c3f71094e364b12da7b1795afc3e6c2e5b04e9eedec522cc14535ce998207"
 }
