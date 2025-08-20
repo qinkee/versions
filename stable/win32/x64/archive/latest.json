@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.99.30047/Void-win32-x64-1.99.30047.zip",
-  "name": "1.99.30047",
-  "version": "a9043d9158ad72c1127df59b6d45dcff817c5dd3",
-  "productVersion": "1.99.30047.0",
-  "hash": "38307f72d4653e568a2431e6b2f6f79049ba64ee",
-  "timestamp": "1755620179559",
-  "sha256hash": "d2cc301d3e9cd82ab89082397b4d05166262e8720ebe1c931c4772da4e06f734"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.99.30048/Void-win32-x64-1.99.30048.zip",
+  "name": "1.99.30048",
+  "version": "121802ecb9dd5b19a137792c3bf4073bc95e39a4",
+  "productVersion": "1.99.30048.0",
+  "hash": "ad5c82e0f6371771739d97887e29d7048c75916e",
+  "timestamp": "1755677861642",
+  "sha256hash": "7cd4059779dbd994dd97f751450a80c7c3cfca4155cc4e33163161fa657e6d50"
 }
