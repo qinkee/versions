@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.100.1/Void-linux-arm64-1.100.1.tar.gz",
-  "name": "1.100.1",
-  "version": "ad01b5a5437b48676f898c57191399e200a7b7b8",
-  "productVersion": "1.100.1.0",
-  "hash": "cebcf89c8ad67792253ec3d9a2b278c3a15c74a8",
-  "timestamp": "1756349785076",
-  "sha256hash": "ecb56d494ec3ca6a96bf5ae73a40a38ce419b67325aa742cc5f988eae7932845"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.100.2/Void-linux-arm64-1.100.2.tar.gz",
+  "name": "1.100.2",
+  "version": "8aa4b4d87cd410611d92ba7b6e4baf404088e1e0",
+  "productVersion": "1.100.2.0",
+  "hash": "4c9e20b4125ad612d0195c485d1d10ac5d50f0d6",
+  "timestamp": "1756358273119",
+  "sha256hash": "28a6d7fdf81a2945e00c69b3f465e55fce678133efab040e5c7cd2dff90c026b"
 }
