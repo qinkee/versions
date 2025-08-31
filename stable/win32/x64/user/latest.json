@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.100.5/VoidUserSetup-x64-1.100.5.exe",
-  "name": "1.100.5",
+  "url": "https://github.com/qinkee/binaries/releases/download/1.100.6/VoidUserSetup-x64-1.100.6.exe",
+  "name": "1.100.6",
   "version": "f2cb1bf0c9282713030dc3aa1f66d2c61ca9b2b9",
-  "productVersion": "1.100.5.0",
-  "hash": "1d99b410c8dac28705fecee44be5a4195173e70b",
-  "timestamp": "1756554731994",
-  "sha256hash": "76b111ebd47a8ec9c7849d3af6016dd0535426a6a88b9a3b04a7ffaec16970e0"
+  "productVersion": "1.100.6.0",
+  "hash": "535c43c9042f1111b3e8addcb8a3bab7397c6ed3",
+  "timestamp": "1756607629545",
+  "sha256hash": "b263f8acf3a68852546aa4d63cefc660fe81b55469815e7111cca02e0efea988"
 }
