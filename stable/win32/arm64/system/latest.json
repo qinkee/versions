@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.100.12/VoidSetup-arm64-1.100.12.exe",
-  "name": "1.100.12",
-  "version": "43e67a48330da946b17e6ee1ca5153962d8128da",
-  "productVersion": "1.100.12.0",
-  "hash": "92e5c4ffd2113a9d06893abe18743e20ea783331",
-  "timestamp": "1756785944377",
-  "sha256hash": "cb653ee251c9e416ff27bc3354f120437e17c3f7e9d27cc21f330b83417fe839"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.100.13/VoidSetup-arm64-1.100.13.exe",
+  "name": "1.100.13",
+  "version": "bb589e3cccb9fcd3c1639f73ef0f4a08a560f1b0",
+  "productVersion": "1.100.13.0",
+  "hash": "0526eebc4475b894b6647b29657ca43228e33749",
+  "timestamp": "1756862679213",
+  "sha256hash": "007edbf84c6484ce842c5b6f0755f14c42aac280ffd61aa913bf6416f6eeeb9f"
 }
