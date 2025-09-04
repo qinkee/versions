@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.100.13/Void-linux-x64-1.100.13.tar.gz",
-  "name": "1.100.13",
-  "version": "bb589e3cccb9fcd3c1639f73ef0f4a08a560f1b0",
-  "productVersion": "1.100.13.0",
-  "hash": "f23aa7486c82ddad2b22a7690cc3e01a77d889b1",
-  "timestamp": "1756861814613",
-  "sha256hash": "a7be46f38e4c7919e9d1de990525c73de875509deb0eff7604b1415edac9d11f"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.100.14/Void-linux-x64-1.100.14.tar.gz",
+  "name": "1.100.14",
+  "version": "d2d5520d3fed238534af4a6de35ea807b8668e50",
+  "productVersion": "1.100.14.0",
+  "hash": "594bc6a51981a5bf10a2a450a22791c7115c7fbd",
+  "timestamp": "1756967601884",
+  "sha256hash": "3fa42410f8bee8b50832cbec0e38ed5871c7e5c740e16f3a4ffe11438160896b"
 }
