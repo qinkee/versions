@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.100.17/Void-linux-armhf-1.100.17.tar.gz",
-  "name": "1.100.17",
-  "version": "fd7d9cc611d17f6a7aaee26e0f509b31e038dd08",
-  "productVersion": "1.100.17.0",
-  "hash": "1d7f9b8e6ab87d12ea7877eeb0a69dbdfdd07795",
-  "timestamp": "1757428215346",
-  "sha256hash": "b430e8f6d0dbfa8ee2f16252c0840cf00c918e5e18bf6ea4a806a9e8dabf5977"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.100.18/Void-linux-armhf-1.100.18.tar.gz",
+  "name": "1.100.18",
+  "version": "9cc4ee52965d9c96e907b2cea43f5c785a79506b",
+  "productVersion": "1.100.18.0",
+  "hash": "2cc2c76aed330beb738a942e0ae93bf0febb6bf7",
+  "timestamp": "1757647550055",
+  "sha256hash": "39482075587dc8f61372fca91f530533d45a6bb8658991ffcad0e640aa63f03f"
 }
