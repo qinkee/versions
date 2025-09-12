@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.100.17/Void-x64-updates-disabled-1.100.17.msi",
-  "name": "1.100.17",
-  "version": "fd7d9cc611d17f6a7aaee26e0f509b31e038dd08",
-  "productVersion": "1.100.17.0",
-  "hash": "723c7077f03bdf8b0c7d27101c9243734f900157",
-  "timestamp": "1757430989889",
-  "sha256hash": "5d9ce226fa4e946f739271aa899d8c7193b8ecd49bbdea51f969a1f347adb519"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.100.18/Void-x64-updates-disabled-1.100.18.msi",
+  "name": "1.100.18",
+  "version": "9cc4ee52965d9c96e907b2cea43f5c785a79506b",
+  "productVersion": "1.100.18.0",
+  "hash": "c062cf5014c94cedeafa3ec2374219ea265e859f",
+  "timestamp": "1757650274170",
+  "sha256hash": "4e02907228e659ed663f24367d09da4fafda88a233cfecc9403430a5e6066cfc"
 }
