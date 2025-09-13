@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.101.0/VoidSetup-x64-1.101.0.exe",
-  "name": "1.101.0",
-  "version": "34464b20421aceae3e7d35550b3d36348e0546ce",
-  "productVersion": "1.101.0.0",
-  "hash": "492757778a29ae1b390809d8f25ac957813a4651",
-  "timestamp": "1757660256208",
-  "sha256hash": "7a6dab2629c7a37d33aa9768e1af5610b722a2e494755eb6ebd87a5aa194ec35"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.102.1/VoidSetup-x64-1.102.1.exe",
+  "name": "1.102.1",
+  "version": "e22251fb06e2ef0c30f930302700402275762ff9",
+  "productVersion": "1.102.1.0",
+  "hash": "3950cb48e5b2a90dc6fbbdc311e1bd22485f796f",
+  "timestamp": "1757772825483",
+  "sha256hash": "79b56ec2d94a3322aee928bde6b87c9ed2cc5adcd9e8c971710cf458fd19ed9a"
 }
