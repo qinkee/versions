@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.103.1/Void-win32-arm64-1.103.1.zip",
-  "name": "1.103.1",
-  "version": "beac80084a6f0335d7d95077d9bdd6362b7277e1",
-  "productVersion": "1.103.1.0",
-  "hash": "9eea7b8db6d79e22c4b8e8b16a0769246143213f",
-  "timestamp": "1758163649535",
-  "sha256hash": "1b055d2282ba23d475b1cb45b5f9bfdf421a167c3b3814ea415e21b60a180aec"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.104.0/Void-win32-arm64-1.104.0.zip",
+  "name": "1.104.0",
+  "version": "1891e87ed54d653a7c53cf188866671a625c7b2b",
+  "productVersion": "1.104.0.0",
+  "hash": "c55fc2f87a02b86fb297e07c2478c78fdd3292dc",
+  "timestamp": "1758214993142",
+  "sha256hash": "425caa43834cbde4247e31a76c281cbea013ca40a33c34183843978af7d41dcf"
 }
