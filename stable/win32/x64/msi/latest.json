@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.200.5/Void-x64-1.200.5.msi",
-  "name": "1.200.5",
-  "version": "dd9d6284a26bf3e8801ac6e4c20b76310a48409d",
-  "productVersion": "1.200.5.0",
-  "hash": "401697578ef6975605138a73ec1c2de0248a27dc",
-  "timestamp": "1761067678562",
-  "sha256hash": "bca7d72900eadfcfb3d441966ae26ada2f326bb2cdf976d8d02730ad9abf06ea"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.200.6/Void-x64-1.200.6.msi",
+  "name": "1.200.6",
+  "version": "61b89a8928268642d774fa95eea2ea87fad090a6",
+  "productVersion": "1.200.6.0",
+  "hash": "b0f6518c24a87a66a02de7cd4494101e6fdb343a",
+  "timestamp": "1761270265055",
+  "sha256hash": "2cf05d86d424b3272bc894e49dd5b4843413057266e47216d8756d57d4baef26"
 }
