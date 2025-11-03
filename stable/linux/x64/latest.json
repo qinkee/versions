@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinkee/binaries/releases/download/1.201.0/Void-linux-x64-1.201.0.tar.gz",
-  "name": "1.201.0",
-  "version": "3f63259f0c7ac71490faf799515f0db887093b50",
-  "productVersion": "1.201.0.0",
-  "hash": "2bdd5848f605ce27f0e06aad270a266d82779759",
-  "timestamp": "1761800428144",
-  "sha256hash": "4514cec20587624b34e1f5d6f88d6578648e4f36bffdbd515089d1068e3d9308"
+  "url": "https://github.com/qinkee/binaries/releases/download/1.201.2/Void-linux-x64-1.201.2.tar.gz",
+  "name": "1.201.2",
+  "version": "1c7f55bf5dbf4f082131e82faf54c8a4b2cfb850",
+  "productVersion": "1.201.2.0",
+  "hash": "983951a987601281bb57d47dc4159fedc5e3a775",
+  "timestamp": "1762191053319",
+  "sha256hash": "a1d1e4e75eb0576e96e57963c982c1df23d019d270901e9522acf35e4905d07c"
 }
